@@ -1,14 +1,14 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@myswap/sdk",
   "license": "MIT",
   "version": "5.0.0-canary.66",
-  "description": "🛠 An SDK for building applications on top of SushiSwap.",
+  "description": "🛠 An SDK for building applications on top of MySwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": "https://github.com/interstellar14/myswap",
   "keywords": [
     "sushiswap",
     "ethereum",
